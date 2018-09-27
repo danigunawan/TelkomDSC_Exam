@@ -23,9 +23,7 @@ datanyah = {
 
 bungkus_bracket = []
 for element_yeuh in datanyah['base']:
-    # if element_yeuh['serial'] == '00000000762c1d3c':
-    # print 'there'
-    # print  element_yeuh['text']
+
     bungkus_bracket = element_yeuh['text']
     
     # print bungkus_bracket
